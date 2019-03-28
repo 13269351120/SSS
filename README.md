@@ -2,21 +2,13 @@
 
 <!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 算法[:pencil2:](#pencil2-算法) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:art:](#art-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:wrench:](#wrench-工具)| 编码实践[:watermelon:](#watermelon-编码实践)| 后记[:memo:](#memo-后记) | -->
+| 算法[:pencil2:](#pencil2-算法) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:art:](#art-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| C++ [:apple:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:wrench:](#wrench-工具)| 编码实践[:watermelon:](#watermelon-编码实践)| 后记[:memo:](#memo-后记) | -->
 
-| &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp; | 面向对象 | &nbsp;&nbsp;数据库&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | 系统设计 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 编码实践 | &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
+| &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp; | 面向对象 | &nbsp;&nbsp;数据库&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp; | 系统设计 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 编码实践 | &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统)|[:cloud:](#cloud-网络) | [:art:](#art-面向对象) |[:floppy_disk:](#floppy_disk-数据库)|  [:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践)| [:memo:](#memo-后记) |
+| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统)|[:cloud:](#cloud-网络) | [:art:](#art-面向对象) |[:floppy_disk:](#floppy_disk-数据库)|  [:apple:](#coffee-java)| [:bulb:](#bulb-系统设计)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践)| [:memo:](#memo-后记) |
 
 <br>
-
-<div align="center">
-    <img src="assets/LogoMakr_0zpEzN.png" width="200px">
-    <br>
-    <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://img.shields.io/badge/>-read-4ab8a1.svg"></a>  <a href="https://xiaozhuanlan.com/CyC2018"> <img src="https://img.shields.io/badge/_-more-4ab8a1.svg"></a> 
-    <br> <br>
-</div> 
-
 
 ## :pencil2: 算法
 
@@ -48,13 +40,12 @@
 - [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/MySQL.md)
 - [Redis](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Redis.md)
 
-## :coffee: Java
+## :coffee: C++
 
-- [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20基础.md)
-- [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20容器.md)
-- [Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20并发.md)
-- [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20虚拟机.md)
-- [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20IO.md)
+- [C++ 基础](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20基础.md)
+- [C++ STL](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20容器.md)
+- [C++ 多线程](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20并发.md)
+- [C++ I/O](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20IO.md)
 
 ## :bulb: 系统设计 
 
